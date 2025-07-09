@@ -49,7 +49,6 @@ I'm a Aspiring Ai/ML engineer with an MSc in Data Science from the Defence Insti
 -Hand-crafted features like tier combinations and adjusted seat availability for holidays and weekends.
 -Trained models including TabularNet (AutoGluon) and Random Forest Regressor for demand prediction and achieved an rmse of 618.
   
-
 ### 💬 Product Sentiment Analysis with BERT  
 - Fine-tuned a BERT-base-uncased model to classify tweets into positive, negative, or neutral sentiment achieving  an accuracy of ~85%.
 - Tackled class imbalance with text augmentation (synonym replacement via nlpaug), boosting per-class F1 scores.
