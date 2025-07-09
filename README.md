@@ -34,14 +34,14 @@ I'm a Aspiring Ai/ML engineer with an MSc in Data Science from the Defence Insti
 
 ### 🔐 Face Recognition and Gender Classification – COMFSYS Hackathon  
 🔹 Task A – Gender Classification
--Handled class imbalance with upsampling and extracted features using EfficientNet-B3.
--Combined Random Forest, XGBoost, and CatBoost in a Voting Classifier.
--Achieved a solid 93.8% validation accuracy on challenging data.
+- Handled class imbalance with upsampling and extracted features using EfficientNet-B3.
+- Combined Random Forest, XGBoost, and CatBoost in a Voting Classifier.
+- Achieved a solid 93.8% validation accuracy on challenging data.
 
 🔹 Task B – Face Recognition
--Built a Siamese Network trained with Triplet Loss to learn identity-aware embeddings.
--Used MobileNetV2 to generate 128-D face vectors, evaluated via cosine similarity.
--Delivered a 98.25% Top-1 Accuracy, proving robust recognition performance. 
+- Built a Siamese Network trained with Triplet Loss to learn identity-aware embeddings.
+- Used MobileNetV2 to generate 128-D face vectors, evaluated via cosine similarity.
+- Delivered a 98.25% Top-1 Accuracy, proving robust recognition performance. 
 
 ### 🚌 Bus Demand Prediction – Redbus Data Decode Hackathon  
 - Participated in the redbus hackathon and predicted bys demand 15 days before journey using the transaction data.
