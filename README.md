@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Yash Agarwal
 
-I'm a Data Scientist with an MSc in Data Science from the Defence Institute of Advanced Technology. I'm deeply passionate about Generative AI and Multimodal AI, and I love building machine learning solutions that solve real-world problems.
+I'm a Aspiring Ai/ML engineer with an MSc in Data Science from the Defence Institute of Advanced Technology. I'm deeply passionate about Generative AI and Multimodal AI, and I love building machine learning solutions that solve real-world problems.
+
 
 ---
 
