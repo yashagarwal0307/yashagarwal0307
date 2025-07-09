@@ -65,7 +65,7 @@ I'm a Aspiring Ai/ML engineer with an MSc in Data Science from the Defence Insti
 - Hugging Face Transfomers
 - Langchain and FastAPi
 - MLops and deployment Tools
-- Muktimodal and Language models
+- Multimodal and Language models
 ## 📬 Connect with Me
 
 - 💼 LinkedIn-https://www.linkedin.com/in/yash-agarwal-20424b1b3/  
