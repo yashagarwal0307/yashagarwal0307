@@ -31,23 +31,57 @@ I'm a Data Scientist with an MSc in Data Science from the Defence Institute of A
 
 ## 🚀 Featured Projects
 
-### 🔐 Face Recognition – COMFSYS Hackathon  
-- Built a face recognition model using **MobileNetV2** for embeddings  
-- Designed a **Siamese Network** with **Triplet Loss** for identity matching  
+### 🔐 Face Recognition and Gender Classification – COMFSYS Hackathon  
+🔹 Task A – Gender Classification
+-Handled class imbalance with upsampling and extracted features using EfficientNet-B3.
+-Combined Random Forest, XGBoost, and CatBoost in a Voting Classifier.
+-Achieved a solid 93.8% validation accuracy on challenging data.
+
+🔹 Task B – Face Recognition
+-Built a Siamese Network trained with Triplet Loss to learn identity-aware embeddings.
+-Used MobileNetV2 to generate 128-D face vectors, evaluated via cosine similarity.
+-Delivered a 98.25% Top-1 Accuracy, proving robust recognition performance. 
 
 ### 🚌 Bus Demand Prediction – Redbus Hackathon  
-- Built a predictive model using tabular data  
-- **AutoGluon TabularNet** and **Random Forest** gave the best performance  
+Split the transaction data based on journey dates to reflect realistic forecasting conditions.
+
+-Performed EDA to identify trends in booking behavior — higher demand on weekends, holidays, and close to travel dates.
+
+-Hand-crafted features like tier combinations and adjusted seat availability for holidays and weekends.
+
+-Trained models including TabularNet (AutoGluon) and Random Forest Regressor for demand prediction.
+
+-TabularNet and Random Forest gave the best results, capturing demand patterns across routes and dates.  
 
 ### 💬 Product Sentiment Analysis with BERT  
-- Trained a BERT model on an imbalanced product review dataset (from Kaggle)  
-- Preprocessed and balanced data before fine-tuning BERT for accurate sentiment classification  
+- Fine-tuned a BERT-base-uncased model to classify tweets into positive, negative, or neutral sentiment.
+
+- Removed heavy preprocessing after observing it hurt BERT’s performance — accuracy jumped by 3–4%.
+
+- Tackled class imbalance with text augmentation (synonym replacement via nlpaug), boosting per-class F1 scores.
+
+- Achieved ~85% accuracy and 84.6 F1 score, using macro and weighted F1 for balanced evaluation.
+
+- Deployed a Streamlit UI for real-time sentiment prediction using the fine-tuned model
+  
+### 🔆 Solar Efficiency Prediction(Zelestra X AWS ML Ascend Challenge)
+-Transformed messy sensor data with precise cleaning, type conversion, and outlier handling.
+
+-Applied Mutual Information, Pearson Correlation, and VIF for effective feature selection.
+
+-Trained multiple models including XGBoost, CatBoost, SVR, Random Forest, and ELM.
+
+-Combined top models using a Voting Regressor to enhance prediction stability.
+
+-Achieved a validation score of 89.79 in the Zelestra X AWS ML Ascend Challenge.
+
+
 
 ---
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-agarwal-20424b1b3/)  
+- 💼 LinkedIn-https://www.linkedin.com/in/yash-agarwal-20424b1b3/  
 - 📧 Email: yashaimldl@gmail.com
 ---
 
