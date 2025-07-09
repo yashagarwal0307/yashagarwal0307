@@ -44,40 +44,23 @@ I'm a Aspiring Ai/ML engineer with an MSc in Data Science from the Defence Insti
 -Delivered a 98.25% Top-1 Accuracy, proving robust recognition performance. 
 
 ### 🚌 Bus Demand Prediction – Redbus Hackathon  
-Split the transaction data based on journey dates to reflect realistic forecasting conditions.
 
 -Performed EDA to identify trends in booking behavior — higher demand on weekends, holidays, and close to travel dates.
-
 -Hand-crafted features like tier combinations and adjusted seat availability for holidays and weekends.
-
 -Trained models including TabularNet (AutoGluon) and Random Forest Regressor for demand prediction.
-
 -TabularNet and Random Forest gave the best results, capturing demand patterns across routes and dates.  
 
 ### 💬 Product Sentiment Analysis with BERT  
 - Fine-tuned a BERT-base-uncased model to classify tweets into positive, negative, or neutral sentiment.
-
-- Removed heavy preprocessing after observing it hurt BERT’s performance — accuracy jumped by 3–4%.
-
 - Tackled class imbalance with text augmentation (synonym replacement via nlpaug), boosting per-class F1 scores.
-
 - Achieved ~85% accuracy and 84.6 F1 score, using macro and weighted F1 for balanced evaluation.
-
 - Deployed a Streamlit UI for real-time sentiment prediction using the fine-tuned model
   
 ### 🔆 Solar Efficiency Prediction(Zelestra X AWS ML Ascend Challenge)
--Transformed messy sensor data with precise cleaning, type conversion, and outlier handling.
-
 -Applied Mutual Information, Pearson Correlation, and VIF for effective feature selection.
-
 -Trained multiple models including XGBoost, CatBoost, SVR, Random Forest, and ELM.
-
 -Combined top models using a Voting Regressor to enhance prediction stability.
-
 -Achieved a validation score of 89.79 in the Zelestra X AWS ML Ascend Challenge.
-
-
-
 ---
 
 ## 📬 Connect with Me
