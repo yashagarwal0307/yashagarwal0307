@@ -45,8 +45,11 @@ I'm a Aspiring Ai/ML engineer with an MSc in Data Science from the Defence Insti
 
 ### 🚌 Bus Demand Prediction – Redbus Data Decode Hackathon  
 -Participated in the redbus hackathon and predicted bys demand 15 days before journey using the transaction data.
+
 -Performed EDA to identify trends in booking behavior — higher demand on weekends, holidays, and close to travel dates.
+
 -Hand-crafted features like tier combinations and adjusted seat availability for holidays and weekends.
+
 -Trained models including TabularNet (AutoGluon) and Random Forest Regressor for demand prediction and achieved an rmse of 618.
   
 ### 💬 Product Sentiment Analysis with BERT  
