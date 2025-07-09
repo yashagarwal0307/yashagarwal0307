@@ -57,10 +57,10 @@ I'm a Aspiring Ai/ML engineer with an MSc in Data Science from the Defence Insti
 - Deployed a Streamlit UI for real-time sentiment prediction using the fine-tuned model
   
 ### 🔆 Solar Efficiency Prediction(Zelestra X AWS ML Ascend Challenge)
--Applied Mutual Information, Pearson Correlation, and VIF for effective feature selection.
--Trained multiple models including XGBoost, CatBoost, SVR, Random Forest, and ELM.
--Combined top models using a Voting Regressor to enhance prediction stability.
--Achieved a validation score of 89.79 in the Zelestra X AWS ML Ascend Challenge.
+ - Applied Mutual Information, Pearson Correlation, and VIF for effective feature selection.
+ - Trained multiple models including XGBoost, CatBoost, SVR, Random Forest, and ELM.
+ - Combined top models using a Voting Regressor to enhance prediction stability.
+ - Achieved a validation score of 89.79 in the Zelestra X AWS ML Ascend Challenge.
 ---
 
 ## 📬 Connect with Me
