@@ -36,7 +36,7 @@ I'm a Aspiring Ai/ML engineer with an MSc in Data Science from the Defence Insti
 🔹 Task A – Gender Classification
 - Handled class imbalance with upsampling and extracted features using EfficientNet-B3.
 - Combined Random Forest, XGBoost, and CatBoost in a Voting Classifier.
-- Achieved a solid 93.8% validation accuracy on challenging data.
+- Achieved a solid 94.1% validation accuracy on challenging data.
 
 🔹 Task B – Face Recognition
 - Built a Siamese Network trained with Triplet Loss to learn identity-aware embeddings.
